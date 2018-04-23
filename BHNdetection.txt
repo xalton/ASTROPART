@@ -1,0 +1,84 @@
+event with log(sigma)<log(2s in MDJ)
+content: -4.92119	index i: 78	index j: 208	ascension: 38.75	declination =  18.75	ns:2.00442	gamma: 3.94902	Mean : 	56744.9	p-value (in -log10):2.32713
+event with log(sigma)<log(2s in MDJ)
+content: -4.91775	index i: 79	index j: 207	ascension: 39.25	declination =  18.25	ns:1.99948	gamma: 3.94876	Mean : 	56744.9	p-value (in -log10):2.98024
+event with log(sigma)<log(2s in MDJ)
+content: -4.91737	index i: 79	index j: 208	ascension: 39.25	declination =  18.75	ns:1.9994	gamma: 3.94873	Mean : 	56744.9	p-value (in -log10):3.17122
+event with log(sigma)<log(2s in MDJ)
+content: -4.91808	index i: 79	index j: 209	ascension: 39.25	declination =  19.25	ns:1.99883	gamma: 3.94892	Mean : 	56744.9	p-value (in -log10):2.752
+event with log(sigma)<log(2s in MDJ)
+content: -4.92436	index i: 80	index j: 206	ascension: 39.75	declination =  17.75	ns:2.00309	gamma: 3.94893	Mean : 	56744.9	p-value (in -log10):2.47726
+event with log(sigma)<log(2s in MDJ)
+content: -4.91539	index i: 80	index j: 207	ascension: 39.75	declination =  18.25	ns:1.9978	gamma: 3.94871	Mean : 	56744.9	p-value (in -log10):3.28063
+event with log(sigma)<log(2s in MDJ)
+content: -4.91226	index i: 80	index j: 208	ascension: 39.75	declination =  18.75	ns:1.99931	gamma: 3.94944	Mean : 	56744.9	p-value (in -log10):3.47151
+event with log(sigma)<log(2s in MDJ)
+content: -4.91073	index i: 80	index j: 209	ascension: 39.75	declination =  19.25	ns:1.99876	gamma: 3.94978	Mean : 	56744.9	p-value (in -log10):3.04809
+event with log(sigma)<log(2s in MDJ)
+content: -4.92211	index i: 80	index j: 210	ascension: 39.75	declination =  19.75	ns:1.99983	gamma: 3.94928	Mean : 	56744.9	p-value (in -log10):2.02581
+event with log(sigma)<log(2s in MDJ)
+content: -4.9238	index i: 81	index j: 206	ascension: 40.25	declination =  17.75	ns:2.00228	gamma: 3.94995	Mean : 	56744.9	p-value (in -log10):2.22788
+event with log(sigma)<log(2s in MDJ)
+content: -4.91572	index i: 81	index j: 207	ascension: 40.25	declination =  18.25	ns:1.99919	gamma: 3.94966	Mean : 	56744.9	p-value (in -log10):3.02647
+event with log(sigma)<log(2s in MDJ)
+content: -4.91137	index i: 81	index j: 208	ascension: 40.25	declination =  18.75	ns:1.99894	gamma: 3.94873	Mean : 	56744.9	p-value (in -log10):3.219
+event with log(sigma)<log(2s in MDJ)
+content: -4.91469	index i: 81	index j: 209	ascension: 40.25	declination =  19.25	ns:1.99842	gamma: 3.94967	Mean : 	56744.9	p-value (in -log10):2.79849
+event with log(sigma)<log(2s in MDJ)
+content: -4.92342	index i: 82	index j: 207	ascension: 40.75	declination =  18.25	ns:1.99977	gamma: 3.94999	Mean : 	56744.9	p-value (in -log10):2.23079
+event with log(sigma)<log(2s in MDJ)
+content: -4.91822	index i: 82	index j: 208	ascension: 40.75	declination =  18.75	ns:1.99903	gamma: 3.94898	Mean : 	56744.9	p-value (in -log10):2.42175
+event with log(sigma)<log(2s in MDJ)
+content: -4.91942	index i: 82	index j: 209	ascension: 40.75	declination =  19.25	ns:1.99948	gamma: 3.94907	Mean : 	56744.9	p-value (in -log10):2.01174
+event with log(2s  in MDJ)<log(sigma)<log(3s in MDJ)
+content: -4.52787	index i: 180	index j: 194	ascension: 89.75	declination =  11.75	ns:1.99998	gamma: 3.9494	Mean : 	56857.4p-value (in -log10):1.70672
+event with log(2s  in MDJ)<log(sigma)<log(3s in MDJ)
+content: -4.52779	index i: 181	index j: 192	ascension: 90.25	declination =  10.75	ns:2	gamma: 3.94915	Mean : 	56857.4p-value (in -log10):2.00332
+event with log(2s  in MDJ)<log(sigma)<log(3s in MDJ)
+content: -4.52815	index i: 181	index j: 193	ascension: 90.25	declination =  11.25	ns:2.00011	gamma: 3.94944	Mean : 	56857.4p-value (in -log10):2.0257
+event with log(2s  in MDJ)<log(sigma)<log(3s in MDJ)
+content: -4.52796	index i: 181	index j: 194	ascension: 90.25	declination =  11.75	ns:1.99997	gamma: 3.94999	Mean : 	56857.4p-value (in -log10):1.89269
+event with log(2s  in MDJ)<log(sigma)<log(3s in MDJ)
+content: -4.52615	index i: 182	index j: 192	ascension: 90.75	declination =  10.75	ns:1.99996	gamma: 3.94931	Mean : 	56857.4p-value (in -log10):2.0416
+event with log(2s  in MDJ)<log(sigma)<log(3s in MDJ)
+content: -4.52777	index i: 182	index j: 193	ascension: 90.75	declination =  11.25	ns:1.99999	gamma: 3.94921	Mean : 	56857.4p-value (in -log10):2.06388
+event with log(2s  in MDJ)<log(sigma)<log(3s in MDJ)
+content: -4.52647	index i: 182	index j: 194	ascension: 90.75	declination =  11.75	ns:1.99998	gamma: 3.94976	Mean : 	56857.4p-value (in -log10):1.93056
+event with log(2s  in MDJ)<log(sigma)<log(3s in MDJ)
+content: -4.52766	index i: 183	index j: 191	ascension: 91.25	declination =  10.25	ns:1.99993	gamma: 3.94948	Mean : 	56857.4p-value (in -log10):1.75309
+event with log(2s  in MDJ)<log(sigma)<log(3s in MDJ)
+content: -4.52717	index i: 183	index j: 192	ascension: 91.25	declination =  10.75	ns:2.00008	gamma: 3.94925	Mean : 	56857.4p-value (in -log10):1.92976
+event with log(2s  in MDJ)<log(sigma)<log(3s in MDJ)
+content: -4.52723	index i: 183	index j: 193	ascension: 91.25	declination =  11.25	ns:1.99998	gamma: 3.94928	Mean : 	56857.4p-value (in -log10):1.9522
+event with log(sigma)<log(2s in MDJ)
+content: -4.73931	index i: 185	index j: 208	ascension: 92.25	declination =  18.75	ns:1.99999	gamma: 2.65002	Mean : 	56230	p-value (in -log10):1.83595
+event with log(4s  in MDJ)<log(sigma)<log(5s in MDJ)
+content: -4.28403	index i: 241	index j: 195	ascension: 120.25	declination =  12.25	ns:1.99998	gamma: 3.9497	Mean : 	56665.2p-value (in -log10):2.04442
+event with log(4s  in MDJ)<log(sigma)<log(5s in MDJ)
+content: -4.28473	index i: 241	index j: 196	ascension: 120.25	declination =  12.75	ns:1.99998	gamma: 3.94916	Mean : 	56665.2p-value (in -log10):2.21856
+event with log(4s  in MDJ)<log(sigma)<log(5s in MDJ)
+content: -4.28513	index i: 242	index j: 194	ascension: 120.75	declination =  11.75	ns:1.99998	gamma: 3.9493	Mean : 	56665.2p-value (in -log10):1.9643
+event with log(4s  in MDJ)<log(sigma)<log(5s in MDJ)
+content: -4.2865	index i: 242	index j: 195	ascension: 120.75	declination =  12.25	ns:2	gamma: 3.94911	Mean : 	56665.2p-value (in -log10):2.73043
+event with log(4s  in MDJ)<log(sigma)<log(5s in MDJ)
+content: -4.28685	index i: 242	index j: 196	ascension: 120.75	declination =  12.75	ns:2	gamma: 3.94901	Mean : 	56665.2p-value (in -log10):2.90661
+event with log(4s  in MDJ)<log(sigma)<log(5s in MDJ)
+content: -4.28395	index i: 243	index j: 194	ascension: 121.25	declination =  11.75	ns:1.99998	gamma: 3.94974	Mean : 	56665.2p-value (in -log10):2.08384
+event with log(4s  in MDJ)<log(sigma)<log(5s in MDJ)
+content: -4.28672	index i: 243	index j: 195	ascension: 121.25	declination =  12.25	ns:2	gamma: 3.94905	Mean : 	56665.2p-value (in -log10):2.8524
+event with log(4s  in MDJ)<log(sigma)<log(5s in MDJ)
+content: -4.28684	index i: 243	index j: 196	ascension: 121.25	declination =  12.75	ns:2	gamma: 3.94897	Mean : 	56665.2p-value (in -log10):3.02878
+event with log(4s  in MDJ)<log(sigma)<log(5s in MDJ)
+content: -4.28674	index i: 244	index j: 194	ascension: 121.75	declination =  11.75	ns:1.99998	gamma: 3.94966	Mean : 	56665.2p-value (in -log10):1.64673
+event with log(4s  in MDJ)<log(sigma)<log(5s in MDJ)
+content: -4.286	index i: 244	index j: 195	ascension: 121.75	declination =  12.25	ns:1.99999	gamma: 3.94999	Mean : 	56665.2p-value (in -log10):2.40483
+event with log(4s  in MDJ)<log(sigma)<log(5s in MDJ)
+content: -4.28679	index i: 244	index j: 196	ascension: 121.75	declination =  12.75	ns:1.99999	gamma: 3.94912	Mean : 	56665.2p-value (in -log10):2.58017
+event with log(4s  in MDJ)<log(sigma)<log(5s in MDJ)
+content: -4.28667	index i: 244	index j: 197	ascension: 121.75	declination =  13.25	ns:1.99998	gamma: 3.94997	Mean : 	56665.2p-value (in -log10):2.16229
+event with log(4s  in MDJ)<log(sigma)<log(5s in MDJ)
+content: -4.28619	index i: 245	index j: 195	ascension: 122.25	declination =  12.25	ns:1.99998	gamma: 3.94964	Mean : 	56665.2p-value (in -log10):1.4134
+event with log(4s  in MDJ)<log(sigma)<log(5s in MDJ)
+content: -4.28667	index i: 245	index j: 196	ascension: 122.25	declination =  12.75	ns:1.99998	gamma: 3.94936	Mean : 	56665.2p-value (in -log10):1.58327
+event with log(3s  in MDJ)<log(sigma)<log(4s in MDJ)
+content: -4.34511	index i: 332	index j: 243	ascension: 122.25	declination =  12.75	ns:1.99997	gamma: 3.94987	Mean : 	56336.8p-value (in -log10):1.55399
